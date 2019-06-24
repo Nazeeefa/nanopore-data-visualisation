@@ -3,8 +3,8 @@
 
 A repository containing a collection of scripts used to generate figures and plots.
 
-#### nanoPy folder contains Python scripts (lol)
-#### nanopoRe folder contains scripts written in R
+**nanoPy** folder contains Python scripts (lol)
+**nanopoRe** folder contains scripts written in R
 
 ### Recommended Readings
 
