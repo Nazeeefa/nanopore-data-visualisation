@@ -1,6 +1,6 @@
 ## Nanopore Data Visualisation
 
-A repository containing scripts, tools, and packages used for data visualisation (in research preprints/papers based on nanopore data).
+A collection of scripts, tools, and packages used for visualisation (in research preprints/papers based on nanopore data).
 
 - **nanoPy** folder contains Python scripts
 - **nanopoRe** folder contains scripts written in R
@@ -17,7 +17,8 @@ A repository containing scripts, tools, and packages used for data visualisation
 
 ### Contribution
 
-Feel free to contribute by forking and submitting pull requests, or posting suggestions as issues. Please mention figure number (and link to publication) in your script.
+- You can contribute by forking and submitting pull requests, or posting suggestions as issues. 
+- Please mention figure number (and name/link of publication) in your script.
 
 
 
