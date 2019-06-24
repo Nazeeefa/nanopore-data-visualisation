@@ -3,8 +3,8 @@
 
 A repository containing a collection of scripts, tools, and packages used for nanopore data visualisation.
 
-**nanoPy** folder contains Python scripts (lol)
-**nanopoRe** folder contains scripts written in R
+- **nanoPy** folder contains Python scripts
+- **nanopoRe** folder contains scripts written in R
 
 ### Tools and Packages
 
