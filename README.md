@@ -1,4 +1,4 @@
-## Nanopore Data Visulisation
+## Nanopore Data Visualisation
 
 A repository containing scripts, tools, and packages used for nanopore data* visualisation (in research preprints and papers).
 
