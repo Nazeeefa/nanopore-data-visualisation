@@ -1,6 +1,6 @@
 """
-The following script can help create, for example, figure S1 (A and B) shown in supplementary information of 
- <De Novo Assembly of Two Swedish Genomes Reveals Missing Segments...> https://doi.org/10.3390/genes9100486
+lol the following script can help create, for example, figure S1 (A and B) shown in supplementary information of 
+ <De Novo Assembly of Two Swedish Genomes...> https://doi.org/10.3390/genes9100486
 """
 
 # Data (extracted from vcf file) - example: extract chromosome list, variant size, and sample names
