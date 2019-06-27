@@ -1,7 +1,7 @@
 ## Nanopore Data Visualisation
 
-- **nanoPy** folder for Python scripts
-- **nanopoRe** folder for scripts written in R
+- **nanoPy** = folder for Python scripts
+- **nanopoRe** = folder for scripts written in R
 
 ### Tools and Packages
 
