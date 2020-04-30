@@ -1,5 +1,7 @@
 ## Nanopore Data Visualisation
 
+The idea is to build a collection of scripts used to create figures in preprints or publications. So, it can benefit other researchers in a way that they can reproduce figures using their data. Let's make nanopore research more visual!
+
 - **nanoPy** = folder for Python scripts
 - **nanopoRe** = folder for scripts written in R
 
