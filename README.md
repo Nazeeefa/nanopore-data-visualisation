@@ -15,6 +15,7 @@ The idea is to build a collection of scripts used to create figures in preprints
 1. [SquiggleKit: A toolkit for manipulating nanopore signal data](https://github.com/Psy-Fer/SquiggleKit)
 1. [Tombo (for analysis and visualization of raw nanopore signal)](https://github.com/nanoporetech/tombo)
 1. [NanoSatellite](https://github.com/arnederoeck/NanoSatellite)
+1. [Counterr](https://github.com/dayzerodx/counterr)
 
 ### Contribution
 
