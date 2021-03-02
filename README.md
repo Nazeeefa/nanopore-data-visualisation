@@ -2,8 +2,8 @@
 
 The idea is to build a collection of scripts that were used to create plots for (published) studies. So, it can benefit students and researchers in a way that they can reproduce figures using own data ([Example 1](https://github.com/pschloss/Kozich_ReAnalysis_AEM_2017/blob/master/code/plot_nmds.R) and [Example 2](https://github.com/bioinf/weswgs)). Let's make nanopore research more visual!
 
-- **nanoPy** = folder for Python scripts
-- **nanopoRe** = folder for scripts written in R
+- **nanoPy** = for Python scripts
+- **nanopoRe** = for scripts written in R
 
 ### Tools and Packages
 
