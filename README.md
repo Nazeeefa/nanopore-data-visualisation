@@ -20,4 +20,4 @@ The idea is to build a collection of scripts that were used to create plots for 
 ### Contribution
 
 - You can contribute by forking and submitting pull requests, or posting suggestions as issues. 
-- Please mention figure number (and name/link of publication) in your script.
+- Please mention figure number (and name/doi of publication) in your script.
