@@ -11,7 +11,7 @@ The idea is to build a collection of scripts that were used to create plots for 
     - Figure 1 and 2, [Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/early/2019/06/11/gr.244939.118.abstract)
 2. [Nano-snakemake](https://github.com/wdecoster/nano-snakemake)
 3. [pycoQC - interactive QC plots](https://github.com/a-slide/pycoQC)
-1. [poRe: an R package for the visualization and analysis of nanopore sequencing data](https://academic.oup.com/bioinformatics/article/31/1/114/2365693)
+4. [poRe: an R package for the visualization and analysis of nanopore sequencing data](https://academic.oup.com/bioinformatics/article/31/1/114/2365693)
 1. [SquiggleKit: A toolkit for manipulating nanopore signal data](https://github.com/Psy-Fer/SquiggleKit)
 1. [Tombo (for analysis and visualization of raw nanopore signal)](https://github.com/nanoporetech/tombo)
 1. [NanoSatellite](https://github.com/arnederoeck/NanoSatellite)
