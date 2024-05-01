@@ -16,7 +16,7 @@ The idea is to build a collection of scripts that were used to create plots for 
 6. [Tombo (for analysis and visualization of raw nanopore signal)](https://github.com/nanoporetech/tombo)
 7. [NanoSatellite](https://github.com/arnederoeck/NanoSatellite)
 8. [Counterr](https://github.com/dayzerodx/counterr)
-9. [NanoBlot: A Simple Tool for Visualization of RNA Isoform Usage From Third Generation RNA-sequencing Data] (https://www.biorxiv.org/content/10.1101/2022.10.26.513894v1)
+9. [NanoBlot: A Simple Tool for Visualization of RNA Isoform Usage From Third Generation RNA-sequencing Data](https://www.biorxiv.org/content/10.1101/2022.10.26.513894v1)
 
 ### Contribution
 
